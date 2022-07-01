@@ -1,0 +1,145 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.top{
+    background: url('../img/pic2.png');
+    height: 600px;
+    
+}
+
+/*-----Main----*/
+
+html, body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.7em;
+}
+
+
+p{
+    margin: 10px, 0px;
+    
+}
+
+a{
+    color:grey;
+    text-decoration: none;
+}
+
+h1, h2, h3{
+    margin:20px;
+}
+
+/*navbar*/
+
+#navbar .container{
+    margin:auto;
+    max-width: 1100px;
+    overflow: auto;
+}
+#navbar button{
+    
+    border-radius: 10px;
+}
+
+#navbar {
+    overflow: auto;
+    
+}
+
+#navbar h1{
+    float:left
+}
+
+#navbar ul{
+    list-style: none;
+    float:right;
+}
+
+#navbar li{
+    text-decoration: none;
+    float:right;
+}
+
+#navbar li:hover{
+    color:black;
+}
+
+#navbar a{
+    padding:20px;
+    text-align: center;
+    display: block;
+}
+
+#navbar a:hover{
+    color:black;
+}
+
+header button{
+    border-radius: 10px;
+    
+}
+
+/*main text*/
+#showcase{
+    padding: 170px;
+    color:white;
+}
+
+#subButton{
+    background-color: black;
+    color:white;
+    border-radius: 10px;
+}
+
+.mid-top{
+    color:grey;
+    
+    padding: 50px;
+}
+
+.sidephoto1{
+    background: url('../img/q.png');
+}
+
+#text1{
+    float:left;
+    width:33%;
+    padding: 50px;
+    text-align: center;
+}
+/*section{
+    font-family: Arial Black;
+    height: 300px;
+    
+    width: 300px;
+}
+#logo{
+    float: left;
+}
+
+#mid{
+    color:grey;
+    font-family:'Courier New', Courier, monospace
+}
+
+#subButton{
+    border-radius: 10px;
+    background-color: black;
+    color:white;
+}
+header button{
+    border-radius: 10px;
+    color:black;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+a:hover{
+    color:black;
+}*/
