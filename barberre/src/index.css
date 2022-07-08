@@ -1,0 +1,389 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.top{
+  background: url('../img/pic2.png');
+  height: 750px;
+  
+}
+
+/*-----Main----*/
+
+html, body{
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.7em;
+}
+
+
+p{
+  margin: 10px, 0px;
+  
+}
+
+a{
+  color:grey;
+  text-decoration: none;
+}
+
+h1, h2, h3{
+  margin:20px;
+  text-align: left;
+}
+
+/*navbar*/
+.logo{
+  top: 0px;
+  font-size: 48px;
+  text-align: left;
+  font: normal normal;
+  letter-spacing: 0px;
+  color: #FD4819;
+  float:left;
+}
+
+.second{
+  color:black;
+}
+
+#navbar .container{
+  margin:auto;
+  max-width: 1100px;
+  overflow: auto;
+}
+#navbar button{
+  
+  border-radius: 10px;
+}
+
+#navbar {
+  overflow: auto;
+  
+}
+
+#navbar h1{
+  float:left
+}
+
+#navbar ul{
+  list-style: none;
+  float:right;
+}
+
+#navbar li{
+  text-decoration: none;
+  float:right;
+}
+
+#navbar li:hover{
+  color:black;
+}
+
+#navbar a{
+  padding:20px;
+  text-align: center;
+  display: block;
+}
+
+#navbar a:hover{
+  color:black;
+}
+
+header button{
+  border-radius: 10px;
+  
+}
+#navcon{
+  font-size: 22px;
+}
+/*main text*/
+
+h1{
+  text-align: left;
+  font: normal normal bold 66px/79px Montserrat;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+}
+.main-text{
+  text-align: left;
+  font: normal normal normal 22px/35px Montserrat;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  width: 1200px;
+  height: 350px;
+}
+
+.main-text-left
+{
+  width:50%
+}
+#sidephoto{
+  float:right;
+  width:50%;
+  background-image: url('../img/phone.png');
+  height:400px
+}
+
+#showcase{
+  padding: 50px;
+  color:white;
+  opacity: 1;
+  top: 391px;
+  left: 277px;
+  width: 1000px;
+  height: 160px;
+}
+
+#subButton{
+  background-color: black;
+  color:white;
+  border-radius: 10px;
+}
+#mid{
+
+  height: 50px;
+  padding: 100px;
+  width: 100%;
+  text-align: center;
+  color:grey;
+
+}
+
+.mid-top{
+  height:600px
+}
+
+#text1{
+  float:left;
+  width:33%;
+  padding: 50px;
+  text-align: left;
+  height:550px;
+}
+
+h4{
+  color:aqua;
+  font-size: 12;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#quick{
+  top: 1896px;
+  left: 137px;
+  width: 662px;
+  height: 59px;
+  text-align: left;
+  font: normal normal bold 49px/59px Montserrat;
+  letter-spacing: 0px;
+      color: #000000;
+opacity: 1;
+}
+
+.middle{
+  padding: 100px;
+  text-align: left;
+}
+
+#heading1{
+  text-align: left;
+font: normal normal bold 49px/59px Montserrat;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+width:50%;
+}
+#small-text{
+  width:50%
+}
+
+#smalltext{
+  width:50%
+}
+.info-image{
+  float: right;
+  width:50%;
+  background: url('../img/pic2.png');
+}
+#bottom{
+  width:50%
+}
+
+
+/*bottom*/
+.bottom{
+  height:400px;
+}
+.bottom-top-text{
+  float:left;
+  padding:50px;
+  
+  
+}
+
+#bottom-text{
+  width:50%;
+
+}
+
+.photo{
+  float:right;
+  background: url('../img/pic2.png');
+}
+
+.sidephoto1{
+  top: 192px;
+  height: 400px;
+
+width: 50%;
+height:200px;
+background: transparent url('../img/pic2.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+float:right;
+  
+}
+
+/*Download*/
+#download{
+  padding:100px;
+  background-color:orange;
+  height: 450px;
+}
+
+#app{
+
+  width:50%
+}
+#app-downloada{
+  background: url('../img/appstorea.png') no-repeat;
+  
+  top: 2915px;
+  left: 134px;
+  min-width: 50%; 
+  height: 250px;
+  opacity: 1;
+}
+
+#app-downloadg{
+  
+  background: url('../img/appstoreg.png') no-repeat;
+  top: 2915px;
+  left: 134px;
+  min-width: 50%; 
+  height: 250px;
+  opacity: 1;
+}
+
+/*example*/
+#ex-text{
+  float:right;
+  padding-top: 50px;
+  width:50%;
+}
+
+#profile-pic{
+  float:left;
+  height:400px;
+  background: url('../img/appstorea.png') no-repeat center;
+  width:50%
+}
+#title{
+  text-align:left;
+}
+
+#ex-content{
+
+  text-align:left;
+}
+
+#ex-sign{
+  padding-top:100px
+}
+
+#name{
+  text-align: left;
+  font: normal normal normal 34px/41px Segoe UI;
+  letter-spacing: 0px;
+  color: #8B50C5;
+  opacity: 1;
+}
+
+#location{
+  text-align: left;
+  font: normal normal normal 13px/16px Montserrat;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.line{
+  border-bottom: 2px solid #000000;
+  display:block
+}
+/*ending*/
+
+.ending{
+  height: 400px
+}
+
+.ending-left-text{
+  float:left;
+  width:25%;
+  padding: 50px;
+  text-align: left;
+  height:200px;
+}
+
+.company{
+  float:left;
+  width:25%;
+  padding: 50px;
+  text-align: left;
+  height:200px;   
+}
+
+.product{
+  float:left;
+  width:25%;
+  padding: 50px;
+  text-align: left;
+  height:200px;
+}
+.address{
+float:left;
+  width:25%;
+  padding: 50px;
+  text-align: left;
+  height:200px;
+}
+/*section{
+  font-family: Arial Black;
+  height: 300px;
+  
+  width: 300px;
+}
+#logo{
+  float: left;
+}
+
+
+
+#subButton{
+  border-radius: 10px;
+  background-color: black;
+  color:white;
+}
+header button{
+  border-radius: 10px;
+  color:black;
+}
+
+a{
+  color: red;
+  text-decoration: none;
+}
+
+a:hover{
+  color:black;
+}*/
