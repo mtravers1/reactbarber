@@ -5,8 +5,7 @@ import Midbottom from "./midbottom.js"
 
 
 
- class Middle extends Component{
-     render(){
+const Middle = () => {
          return(
             <div id="middle">
                 <Midtop />
@@ -18,7 +17,6 @@ import Midbottom from "./midbottom.js"
 
             </div>
          )
-     }
 
  }
 

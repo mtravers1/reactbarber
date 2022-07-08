@@ -10,7 +10,7 @@ class Text extends Component{
                     Nulla, adipisci incidunt. Eligendi, dignissimos. Ex 
                     nemo quos, dolorum est nulla nisi, at doloremque similique 
                     voluptas consectetur, commodi fugiat. Impedit, cupiditate 
-                    cumque.</p><br></br>
+                    cumque.</p><br/>
                     {/* <a href="">More</a> */}<p>More</p>
     
                    
@@ -19,7 +19,7 @@ class Text extends Component{
                     Nihil facere perspiciatis vitae hic assumenda sit 
                     pariatur earum doloribus, blanditiis consequuntur culpa? Unde eveniet ipsa 
                     praesentium nihil iste aperiam cupiditate quam!</p>
-                    <br></br>
+                    <br />
                     {/* <a href="">More</a> */}<p>More</p>
 
 
@@ -28,7 +28,7 @@ class Text extends Component{
                 <p id="text1">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                     Est temporibus cumque facere maxime possimus odio eligendi fuga
                      necessitatibus in, cum quod cupiditate. Esse odio illo velit laborum eos 
-                     debitis exercitationem!</p><br></br>
+                     debitis exercitationem!</p><br />
                     {/* <a href="">More</a> */}<p>More</p>
             </div>
 

@@ -11,23 +11,10 @@ class Header extends Component{
     return (
             
         <header>
-
-          
-            
-                 
-                 
+  
            <Navbar />
            <Headertext />
            <Photoone /> 
-               
-
-            
-                    
-                   
-            
-                       
-
-     
                  </header>
 
             

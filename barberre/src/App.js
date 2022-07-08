@@ -8,7 +8,6 @@ import Middle from './components/middle'
 function App() {
   return (
     <div className="App">
-      
           
           <Header /> 
           <Middle />

@@ -8,7 +8,6 @@ class Midbottom extends Component{
 
             <div id="midbottom">
             <Sidephoto />
-            <Midbottom />
 
         
         
